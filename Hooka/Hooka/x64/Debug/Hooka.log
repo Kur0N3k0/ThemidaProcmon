@@ -1,0 +1,11 @@
+﻿  dllmain.cpp
+c:\users\kuroneko\desktop\bob\포렌식\hooka\hooka\dllmain.cpp(322): error C2485: 'naked': 확장 특성을 인식할 수 없습니다.
+c:\users\kuroneko\desktop\bob\포렌식\hooka\hooka\dllmain.cpp(323): error C4235: 비표준 확장이 사용됨: 이 아키텍처에서는 '__asm' 키워드를 사용할 수 없습니다.
+c:\users\kuroneko\desktop\bob\포렌식\hooka\hooka\dllmain.cpp(324): error C2065: 'mov': 선언되지 않은 식별자입니다.
+c:\users\kuroneko\desktop\bob\포렌식\hooka\hooka\dllmain.cpp(324): error C2146: 구문 오류: ';'이(가) 'eax' 식별자 앞에 없습니다.
+c:\users\kuroneko\desktop\bob\포렌식\hooka\hooka\dllmain.cpp(324): error C2065: 'eax': 선언되지 않은 식별자입니다.
+c:\users\kuroneko\desktop\bob\포렌식\hooka\hooka\dllmain.cpp(325): error C2146: 구문 오류: ';'이(가) 'jmp' 식별자 앞에 없습니다.
+c:\users\kuroneko\desktop\bob\포렌식\hooka\hooka\dllmain.cpp(326): error C2065: 'jmp': 선언되지 않은 식별자입니다.
+c:\users\kuroneko\desktop\bob\포렌식\hooka\hooka\dllmain.cpp(326): error C2146: 구문 오류: ';'이(가) 'zwFunc2' 식별자 앞에 없습니다.
+c:\users\kuroneko\desktop\bob\포렌식\hooka\hooka\dllmain.cpp(326): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+c:\users\kuroneko\desktop\bob\포렌식\hooka\hooka\dllmain.cpp(364): error C3861: 'Stage1': 식별자를 찾을 수 없습니다.
